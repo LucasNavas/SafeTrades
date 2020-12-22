@@ -1,0 +1,23 @@
+{
+  "name": "SafeTrades",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasNavas/SafeTrades.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasNavas/SafeTrades/issues"
+  },
+  "homepage": "https://github.com/LucasNavas/SafeTrades#readme",
+  "dependencies": {
+    "steam-user": "^4.18.0"
+  }
+}
