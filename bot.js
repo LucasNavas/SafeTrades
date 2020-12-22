@@ -10,5 +10,5 @@ client.logOn(logOnOptions);
 client.on('loggedOn', () => {
     console.log('Conectado com sucesso.')
     client.setPersona(SteamUser.EPersonaState.Away);
-    client.gamesPlayed('bolsonaro safada', 440);
+    client.gamesPlayed('bolsonaro gostosa', 440);
 });
